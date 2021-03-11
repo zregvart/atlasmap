@@ -32,7 +32,7 @@
     <properties>
         <at.slf4j.version>1.7.23</at.slf4j.version>
         <at.hamcrest.version>1.3</at.hamcrest.version>
-        <at.jackson.version>2.8.5</at.jackson.version>
+        <at.jackson.version>2.12.2</at.jackson.version>
         <at.jackson.version.range>[2.6,3)</at.jackson.version.range>
         <at.jaxb-api.version>2.2.12</at.jaxb-api.version>
         <at.jaxb-impl.version>2.1</at.jaxb-impl.version>
